@@ -81,9 +81,18 @@ No installations or dependencies needed!
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
-<!-- Add your screenshots here after uploading to GitHub -->
-> Screenshots will be added soon.
+<<<<<<< HEAD
+### About Section
+![About](screenshots/about.png)
+
+### Projects Section
+![Projects](screenshots/projects.png)
+
+### Footer Section
+![Footer](screenshots/footer.png)
+=======
 
 ---
 
