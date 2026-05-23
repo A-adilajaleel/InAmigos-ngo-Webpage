@@ -8,7 +8,7 @@ This is a static awareness webpage created for **InAmigos Foundation**, a regist
 
 ## 🌐 Live Demo
 
-🔗 (https://in-amigos-ngo-webpage-xi.vercel.app/) <!-- Replace with your Vercel link -->
+🔗 (https://in-amigos-ngo-webpage-xi.vercel.app/) 
 
 ---
 
