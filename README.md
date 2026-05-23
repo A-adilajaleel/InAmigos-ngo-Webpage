@@ -1,4 +1,4 @@
-# InAmigos Foundation — NGO Awareness Webpage
+<img width="1882" height="872" alt="image" src="https://github.com/user-attachments/assets/7da163fd-0ada-4c9c-99cf-a960bbeaa3c0" /># InAmigos Foundation — NGO Awareness Webpage
 
 > "Uniting Minds for a Change"
 
@@ -8,7 +8,7 @@ This is a static awareness webpage created for **InAmigos Foundation**, a regist
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the live website](#) <!-- Replace with your Vercel link -->
+🔗 (https://in-amigos-ngo-webpage-xi.vercel.app/) <!-- Replace with your Vercel link -->
 
 ---
 
@@ -65,7 +65,7 @@ inAmigos-ngo-webpage/
 │
 ├── index.html       → Main HTML file
 ├── style.css        → Stylesheet
-└── README.md        → Project documentation
+
 ```
 
 ---
