@@ -1,4 +1,4 @@
-<img width="1882" height="872" alt="image" src="https://github.com/user-attachments/assets/7da163fd-0ada-4c9c-99cf-a960bbeaa3c0" /># InAmigos Foundation — NGO Awareness Webpage
+# InAmigos Foundation — NGO Awareness Webpage
 
 > "Uniting Minds for a Change"
 
