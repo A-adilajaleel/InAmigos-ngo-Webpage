@@ -57,10 +57,8 @@ InAmigos Foundation is a Government-licensed NGO founded on **September 23, 2020
 - Vanilla JavaScript (scroll animation only)
 
 ---
-
 ## 📁 Folder Structure
 
-```
 inAmigos-ngo-webpage/
 │
 ├── index.html          → Main HTML file
@@ -70,7 +68,10 @@ inAmigos-ngo-webpage/
     ├── about.png
     ├── projects.png
     └── footer.png
+<<<<<<< HEAD
 ```
+=======
+>>>>>>> d8ebc97241eb2663cd759552a3b665d259f640dd
 
 ---
 
